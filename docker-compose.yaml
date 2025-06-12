@@ -1,6 +1,6 @@
 version: '3.9'
 services:
   web:
-    image:"utkarshhsaxenaa/myapp:latest"
+    image: "utkarshhsaxenaa/myapp:latest"
     ports:
       - "8000:8001"
